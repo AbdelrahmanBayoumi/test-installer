@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="https://sourceforge.net/projects/azkar/files/last-release-for-auto-update/">
+  <entry targetMediaFileId="60" updatableVersionMin="" updatableVersionMax="" fileName="Azkar_windows-x64_0_9_0.exe" newVersion="0.9.0" newMediaFileId="60" fileSize="69035520" md5Sum="7485a427e3658d397b2bd34e7181d2ee" sha256Sum="f4a8d6c550527f1bca78f5f54b3f5e4767e43f950d18ae0fe44896378daf1363" bundledJre="windows-amd64-1.8.0_271.tar.gz" archive="false" singleBundle="false">
+    <comment language="en">- Check for Update inside the app&#xD;
+- Update Home View Design&#xD;
+- Reminder With Prayer Times</comment>
+  </entry>
+</updateDescriptor>
