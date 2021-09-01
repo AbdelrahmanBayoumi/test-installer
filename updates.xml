@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<updateDescriptor baseUrl="https://sourceforge.net/projects/azkar/files/0.9.4/">
-  <entry targetMediaFileId="60" updatableVersionMin="" updatableVersionMax="" fileName="Azkar_windows-x64_0_9_4.exe" newVersion="0.9.4" newMediaFileId="60" fileSize="69035520" md5Sum="8db00ec28d35a5615f2eab3009ef9d63" sha256Sum="f65b3921cdf5e3900491a3f6cf87b3067293ae10c58372c624ba991b65a4e524" bundledJre="windows-amd64-1.8.0_271.tar.gz" archive="false" singleBundle="false">
+<updateDescriptor baseUrl="https://github.com/AbdelrahmanBayoumi/test-installer/releases/latest/download/">
+  <entry targetMediaFileId="792" updatableVersionMin="" updatableVersionMax="" fileName="Azkar_windows-x64.exe" newVersion="1.0.0" newMediaFileId="792" fileSize="69070336" md5Sum="0695ca9aec5e2540e2dfc1a5caa4f777" sha256Sum="bb3b36685ee298462591224496ba9f83dcfead6b9e36b0863abff0ff2689d847" bundledJre="windows-amd64-1.8.0_271.tar.gz" archive="false" singleBundle="false">
     <comment language="en">- Check for Update inside the app&#xD;
 - Update Home View Design&#xD;
 - Reminder With Prayer Times</comment>
